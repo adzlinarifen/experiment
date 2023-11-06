@@ -24,7 +24,7 @@ folder_names = [folder for folder in os.listdir(path) if os.path.isdir(os.path.j
 
 
 for file_UUID in folder_names:
-    input_directory_path = '/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}}/ocr/'
+    input_directory_path = f'/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}}/ocr/'
 
     for folder, _, files in os.walk(input_directory_path):
         for filename in files:
@@ -91,4 +91,4 @@ for file_UUID in folder_names:
                 with open(output_file_path, 'w') as output_file:
                     for page_num, doc_text in enumerate(doc_text_per_page, start=1):
                         if doc_text.strip():  # Only write non-empty doc_text
-                            output_file.write(f'Page {page_num}:\n{doc_text.strip()}\n')
+                            output_file.write(f'{doc_text.strip()}\n')
