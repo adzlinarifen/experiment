@@ -20,12 +20,12 @@ def should_omit_doc_text(doc_text):
 
 # Get a list of folder names in the specified path
 
-path = '//home/adzlinarifen/ccsstorageaccount2023/deployed/'
+path = '/home/adzlinarifen/ccsstorageaccount2023/deployed/'
 folder_names = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
 
 
 for file_UUID in tqdm(folder_names):
-    input_directory_path = f'/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}}/ocr/'
+    input_directory_path = f'/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}/ocr/'
 
     for folder, _, files in os.walk(input_directory_path):
         for filename in files:
