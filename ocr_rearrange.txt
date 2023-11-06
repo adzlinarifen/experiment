@@ -1,0 +1,444 @@
+Report: 2011/06 July 2011 
+
+
+
+ACKNOWLEDGEMENTS AND CITATIONS This report describes research sponsored by IEAGHG. This report was prepared by: 
+
+POTENTIAL FOR BIOMASS AND CARBON DIOXIDE CAPTURE AND STORAGE 
+
+  
+
+  
+
+  
+
+  
+
+The Technical Potential is found to be the greatest in Asia and Latin America, and lowest in Oceania, Non-OECD Europe, the Former Soviet Union and, OECD Europe. There appears to be vast storage potential in North America, Non-OECD Europe, the Former Soviet Union, Africa and the Middle East; however these regions are limited by the supply of sustainable biomass. Storage capacity does not seem to be a limiting factor, except where depleted hydrocarbon fields are used solely, though there is a need for consistent and detailed storage capacity estimates. 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Potential for Biomass and Carbon Dioxide Capture and Storage 
+
+ECOFYS 
+
+ECOFYS 
+
+calculate the maximum potential as if all biomass were allocated to a specific BE-CCS route. We distinguish three categories of sustainable biomass potential: energy crops, forestry residues and agricultural residues. 
+
+ECOFYS 
+
+Figure 1 Global technical, realisable and economic energy potential (in EJ/yr) per BE-CCS route for the view years 2030 and 2050. Note that potentials are assessed on a route by route basis and cannot simply be added, as they may compete and substitute each 
+
+ECOFYS 
+
+the production cost of the co-firing routes, but influences the economic potential\u00ae* for all BE-CCS routes generating electricity. 
+
+ECOFYS 
+
+Table of contents 
+
+ECOFYS 
+
+L2 B 0 1 =T o 1 == 1 oY o 141 9.1 Comparison of results with other studies ... 141 9.2 Main differences between estimated potentials ...............c.o 144 9.3 Limitations when estimating potentials...........ccooooin 145 10 Conclusions & recommendations ..........coooiiiiiiine e 149 - =Y = 154 Appendix A General assuUMPtions .....ccooiiiiiiiiii 161 Appendix B Biomass potential ... 162 B 1 Biomass potential \u2014 Energy Crops ....cooeiiiii i 162 B2 Biomass potential \u2014 Agricultural residues.........c.oooon 162 B3 Biomass potential \u2014 Forestry residues ......cooviiiiii i s 163 Appendix C CO, storage potential...........cooviiiiii 165 Appendix D Overview tables major results ......ccceeeiiiiiiiiiiiiiiiice e 166 Appendix E Factsheet Biomass (co-)firing for power generation........... 172 E1 Process and Technology Status with and without carbon capture .............. 172 EZ2 (010 R oY o U - PP 175 ES3 0 Lttt ettt e e et e e e s 178 E4 Potential & ObStaCIES ...oeiri s 179 
+
+ECOFYS 
+
+plants equipped with CCS. Electricity generation using biomass alone will make use of conversion technologies (i.e. combustion and gasification) that also allow capturing the CO;. However, there are also differences between biomass and fossil fuels when they are used for the production of electricity and heat. Biomass fuels typically have other combustion/gasification properties, lower energy density and greater variation in fuel properties. This may require modifications (e.g. pre-treatment and feeding, boiler design and burner configuration) in the energy conversion process to allow large scale use of biomass. Biomass plants are also typically smaller than plants fed with fossil fuels. This will have an effect on the economies of scale, particularly when applying CCS. 
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+1 Technical potential 2 Realisable potential 3 Economic potential 
+
+ECOFYS 
+
+growth in capacity due to increased global demand, replacement of existing stock and retrofit of existing stock with BE-CCS. 
+
+ECOFYS 
+
+Oxyfuel combustion 
+
+ECOFYS 
+
+1 Biological processing (e.g. fermentation) for fuel production with the capture of CO:. 2 Biomass gasification with shift and pre-combustion CO, separation to produce hydrogen rich syngas, which can be used for the production of chemicals, fuels and power. 3 Production of power and heat by combustion combined with post-combustion capture; 4  Production of power and heat based on oxyfuel combustion. 
+
+ECOFYS 
+
+Table 3 - 2 BE-CCS technologies assessed in this study 
+
+ECOFYS 
+
+Table 4 - 1 Overview of technical potentials per conversion routes 
+
+ECOFYS 
+
+We then calculate the global potential, determined by the global storage and biomass potential assuming that inter-regional transport of biomass and CO. is allowed. Secondly, we exclude inter-regional transport of biomass. In the latter case, the BE- CCS potential may be lower as regional biomass availability may pose a constraint to the implementation of BE-CCS technologies. 
+
+ECOFYS 
+
+Figure 4 - 4 gives a schematic representation of biomass and conversion to energy applications, i.e. heat, electricity and transport fuel. In this study we focus on the production of electricity and transport fuels. 
+
+ECOFYS 
+
+\u00ae Areas where biofuel feedstock can be cultivated without risks of other farming activity being displaced, or of negative effects on biodiversity, the environment or local communities. 
+
+ECOFYS 
+
+4  The direct injection of pre-milled biomass into modified coal burners; 5 The direct injection of pre-milled biomass through dedicated biomass burners or directly into the furnace; 6 The gasification of the biomass, with combustion of the product gas in the PC boiler. 
+
+ECOFYS 
+
+is expected through increased conversion efficiency of the gas turbine, higher operating pressure in the gasifier, process integration and hot syngas cleaning. In this study we assume that conversion efficiencies of the IGCC can be increased towards ~55% in the longer term. 
+
+ECOFYS 
+
+independently of the type of fuel input (oil, coal, biomass and waste) (ZEP 2006). The type of fuel(s) used has an impact on the composition of the syngas exiting the gasifier. This will in turn affect for instance the shift process and CO, capture energy requirement. As far as we can ascertain, it is currently not known whether biomass (co-)gasification has a positive or negative influence on the efficiency penalty. The relative energy penalty for capture increases when applied to power plants with lower generating efficiencies. The lower conversion efficiency of dedicated BIGCCs does thus together with the capture penalty result in a lower conversion efficiency compared to co-gasification. 
+
+ECOFYS 
+
+Stillage Distillation CO, 7 waste 
+
+ECOFYS 
+
+Figure 4 - 8 General layout of an Fischer Tropsch plant (ASU = air separation unit, WGS = water gas shift, CC = CO; capture, CS = CO, storage) after van Vliet, Faaij et al. (2009) 
+
+ECOFYS 
+
+RD&D efforts regarding the storage of CO, are focused on a more detailed assessment of storage capacities going from theoretical capacity, via technical capacity to realisable or matched capacity (Bradshaw, Bachu et al. 2006). In practice, matching the temporal and geographical availability of sources and sinks may become a bottleneck. Matched capacity is therefore typically much lower than the theoretical capacity. 
+
+ECOFYS 
+
+Figure 4 - 9 Global map showing annual biomass potential expressed in Gt CO; /yr for the seven world regions. Note that in reality biomass potential is not equally distributed within a region, this is merely a graphical representation to show the difference in estimated 
+
+ECOFYS 
+
+Direct emission factor 
+
+ECOFYS 
+
+Range supply chain emissions 2020 
+
+ECOFYS 
+
+Figure 4 - 13 Primary energy potential (EJ/yr) for the PC-CCS co-firing route in 2030 and 2050. Orange bars indicate the resulting technical potential which is either limited by biomass (green bar) or total storage capacity (dark blue bar). The numbers in the figure represent the total storage potential in EJ/yr. Light blue share represents the hydrocarbon storage potential. Storage capacity is based on \u2018best\u2019 estimate. \u201cWorld2\u201d technical potential excludes the possibility of inter-regional transport of biomass and COz. 
+
+ECOFYS 
+
+PC-CCS co-firing-2030 
+
+ECOFYS 
+
+CFB-CCS dedicated-2030 m Storage - Potential = HC storage potential EBiomass potential m Technical potential 
+
+ECOFYS 
+
+The global potential in terms of final energy, shown in Figure 4 - 17, increases from 24 to 47 EJ/yr from 2030 to 2050. This is lower compared to the PC co-firing route due to the lower conversion efficiency. 
+
+ECOFYS 
+
+Figure 4 - 19  Primary energy potential (EJ/yr) for the |GCC-CCS co-firing route in 2050. Orange bars indicate the resulting technical potential which is either limited by biomass (green bar) or total storage capacity (dark blue bar). The numbers in the figure represent the total storage potential in EJ/yr. Light blue share represents the hydrocarbon storage potential. Storage capacity is based on \u2018best\u2019 estimate. \u201cWorld2\u201d technical potential 
+
+ECOFYS 
+
+IGCC-CCS co-firing-2030 
+
+ECOFYS 
+
+Figure 4 - 22 Primary energy potential (EJ/yr) for the BIGCC-CCS route in 2050. Orange bars indicate the resulting technical potential which is either limited by biomass (green bar) or total storage capacity (dark blue bar). The numbers in the figure represent the total storage potential in EJ/yr. Light blue share represents the hydrocarbon storage potential. Storage capacity is based on \u2018best\u2019 estimate. \u201cWorld2\u201d technical potential 
+
+ECOFYS 
+
+routes due to the higher conversion efficiency. It is however slightly lower than for IGCC power plants with co-firing. 
+
+ECOFYS 
+
+Figure 4 - 25  Primary energy potential (EJ/yr) for the advanced bio-ethanol route in 2030 and 2050. Orange bars indicate the resulting technical potential which is either limited by biomass (green bar) or total storage capacity (dark blue bar). The numbers in the figure represent the total storage potential in EJ/yr. Light blue share represents the hydrocarbon storage potential. Storage capacity is based on \u2018best\u2019 estimate. \u201cWorld2\u201d technical potential excludes the possibility of inter-regional transport of bhiomass and COs,. 
+
+ECOFYS 
+
+BioEthanol-advanced generation (ligno cellulosic)-2030 
+
+ECOFYS 
+
+4.4.6 Fischer-Tropsch (FT) diesel The primary energy potential for FT-diesel is given in Figure 4 - 29. 
+
+ECOFYS 
+
+FT biodiesel-2030 
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+Annualrealisable potential 
+
+ECOFYS 
+
+Table 5 - 2 Shares and average annual growth rate of energy conversion technologies in the adapted WEO reference scenario (figures in italic are Ecofys estimations, based on extrapolation of the WEO scenario). In the WEO reference scenario, the total power production increases. A number of conversion technologies will have a decreasing share in total 
+
+ECOFYS 
+
+Table 5 - 4 General assumptions in the realisable potential model 
+
+ECOFYS 
+
+5.3 Results for the realisable potential 
+
+ECOFYS 
+
+to these routes only that there is enough biomass and storage capacity to accommodate the implementation path sketched in Figure 5 - 4. 
+
+ECOFYS 
+
+5.3.4 Realisable potential for electricity routes- some sensitivities 
+
+ECOFYS 
+
+The negative GHG emissions associated with these estimates are highest for the FT biodiesel route (1 Gt of negative emissions) as the amount of CO; that is captured and stored per EJ of final energy is higher. This results in more negative emissions compared to the bio-ethanol route. The latter shows a maximum of 0.2 Gt of negative emissions in the year 2050. 
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+compared to the other BE-CCS technologies. The low cost biomass and relative high CO, price of 50 euro/t offsets these disadvantages. 
+
+ECOFYS 
+
+6.2 Determining the economic potential 
+
+ECOFYS 
+
+Table 6 - 3 Estimates for regional cost and price of biomass potential. 
+
+ECOFYS 
+
+Coal price 
+
+ECOFYS 
+
+Operation and maintenance costs Operation and maintenance cost are here calculated as a percentage of investment 
+
+ECOFYS 
+
+has approximately 10% higher capital requirements compared to pre-combustion, in the co-firing routes. In the dedicated routes, post-combustion has significantly (i.e. a factor two) higher capital requirements compared to pre-combustion. 
+
+ECOFYS 
+
+Table 6 - 6 Overview of performance and cost of biomass fired conversion technologies for biofuel production with CO, capture and compression 
+
+ECOFYS 
+
+relatively small. Additional investment costs are estimated at 36-37 \u20ac/kWouput' ', together with the O&M cost this sums up to 0.3 \u20ac/GJ. This investment cost is low compared the specific investment cost for the conversion plant ranging between 1064 and 1580 \u20ac/kWuiput- 
+
+ECOFYS 
+
+technologies. All supply curves are based on a CO, price of 50 euro/tonne. The effect of lower or higher CO, prices will be assessed in section 8. 
+
+ECOFYS 
+
+WORLD - PC-CCS co-firing - 2050 
+
+ECOFYS 
+
+6.4.3 1GCC-CCS co-firing 
+
+ECOFYS 
+
+WORLD - BIGCC-CCS dedicated - 2030 
+
+ECOFYS 
+
+WORLD - BioEthanol-advanced generation (ligno cellulosic) - 2050 
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+122 
+
+ECOFYS 
+
+124 
+
+ECOFYS 
+
+126 
+
+ECOFYS 
+
+Doubling the costs of CO, transport and storage leads to an increase of the production cost of maximally 16%. When the costs are halved, the production costs will decrease up to 7% . The impact on the economic potential is the largest for the co- firing routes. 
+
+ECOFYS 
+
+The CO, price also has, by influencing the production cost, a large impact on the economic potential of the routes. A decrease in production cost leads to an increase in economic potential as the economic advantage over the reference technologies in general improves. In absolute terms, the largest impact is expected for the IGCC and PC co-firing routes in 2030. For the IGCC route a low CO, price results in a significantly lower economic potential and a high price in significantly higher potential. For the PC route, an increase in CO, price leads to a significantly higher economic potential, i.e. about 50 EJ/yr higher. Lower CO, prices do, however, not result in a much lower potentials, except for the IGCC and BIGCC technologies. In 2050, almost all routes react strongly to a higher CO, price of 100 euro/t and economic potentials increase significantly. 
+
+ECOFYS 
+
+m Change in production cost in % (left axis) 2030 
+
+ECOFYS 
+
+route, which still has a potential of 16 EJ/yr under a biomass price that is 50% higher across the full supply curve. 
+
+ECOFYS 
+
+are however influenced by CO; transport and storage cost. This is shown in Figure 8 - 9 and Figure 8 - 10. 
+
+ECOFYS 
+
+Overall, these figures show that the results of our study are very sensitive to the estimated biomass supply curve and total primary biomass supply. 
+
+ECOFYS 
+
+Figure 8 - 13  Impact of CO. storage potential (hydrocarbon reservoirs only and no inter-regional transport) on the amount of GHG emissions maximally reduced and technical potential in 2030. Left axis shows the absolute change in EJ/yr for the technical potential. Right 
+
+ECOFYS 
+
+In a recent study by Luckow et al. (2010), production and utilisation of global biomass in, amongst others, the transportation and electricity sector amounted to 120-160 EJ/yr (primary) in the year 2050. In that study, both a 400 ppm and a 450 ppm target scenario was assessed. The upper value for global biomass production was found in the 400 ppm scenario. In the strict 400 ppm scenario, the dominant share of biomass is used for the production of electricity with CCS (75 EJ/yr) and without CCS (30 EJ/yr). In the 400 ppm scenario, approximately 14% of electricity supply is met by BE-CCS technologies. In that same scenario, 9% (15 EJ/yr) of the biomass potential is used for the production of refined liquids with BE-CCS technologies. In the 450 ppm scenario, the results indicate that the global biomass usage is lower in 2050 and that the share of biomass-fired conversion technologies equipped with CCS is significantly lower. 
+
+ECOFYS 
+
+maximum economic potential in this study are, in general, more optimistic compared to those in the studies reviewed above. 
+
+ECOFYS 
+
+estimate the amount of CO, that can be stored. It is beyond the scope of this study to perform a detailed consistency analysis on the used storage estimates. Due to the unavailability of detailed storage capacity estimates, the technical potential may be minimally higher or lower than the \u2018best\u2019 estimate used in our study by a factor of 2. 
+
+ECOFYS 
+
+The analysis showed that the production cost of the BE-CCS technologies strongly depends on the CO, price, biomass price, discount rate and the primary biomass potential. Coal price and cost of CO, transport and storage has a lesser influence on the results. Regarding the cost assumptions for CO, transport and storage, it should be noted that we did not take source-sink matching into consideration. In practice, matching the temporal and geographical availability of sources and sinks may become a bottleneck. Additional cost for transport and/or storage will be incurred when detailed source-sink matching is applied. In a recent IEAGHG report (IEA GHG 2009), it was reported that the cost of transport and storage in depleted gas fields may vary significantly between regions. A regional specific cost curve for CO, transport and storage is not applied in our study, for reasons previously discussed in section 6.3.4. Instead, we used a range of values for the cost of CO, transport and storage covering the range of cost estimates reported in literature and assessed the impacts of lower or higher costs on the final result. This was deemed to be appropriate, considering the scope and level of detail of this study. It is however, recommended that if the BE-CCS potential is to be estimated on a more detailed level and on a regional basis, that regional specific supply curves are used. 
+
+ECOFYS 
+
+only a relative small storage capacity is required. Also, in the routes for power generation that are solely fed with biomass (no co-firing) less storage capacity is required when harvesting the full sustainable biomass potential. e The amount of CO, stored by conversion routes ranges between 1 and 21 Gt/yr, and depends mainly on the coal share in the primary energy input, the primary energy potential and the CO, capture efficiency. Negative emissions up to 10 Gt are the greatest for the dedicated routes with CCS: BIGCC and CFB. The negative emissions for the biofuel routes with CCS are the lowest, ranging between 0.5 and 6 Gt, because a smaller fraction of the CO, is captured and stored. Co-firing coal has a negative effect on the net GHG balance. 
+
+ECOFYS 
+
+Public perception is identified as a key factor in the success of BE-CCS. A negative perception of CCS and/or biomass will stall BE-CCS or may result in higher transport and storage costs. However, the combination of biomass conversion and CCS technologies may expect greater public support than the individual technologies. 
+
+ECOFYS 
+
+References 
+
+ECOFYS 
+
+Identification Form.http://www.adaptationlearning.net/category/tags/technology-transfer GeoCapacity (2009). Assessing European Capacity for Geological Storage of Carbon Dioxide, EC - Sixth Framework Programme/Geological Survey of Denmark and Greenland Hamelinck, C. and M. Hoogwijk (2007). Future scenarios for first and second generation biofuels, Ecofys Harmelen, T. v., et al. (2008). The impacts of CO, capture technologies on transboundary air pollution in the Netherlands. Utrecht, the Netherlands, TNO Built Environment and Geosciences, Group Science, Technology and Society: 150 + appendices Hendriks et al. (2004). Global carbon dioxide storage potential and costs. Utrecht, Ecofys, TNO for Rijksinstituut voor Volksgezondheid en Milieu. Hoogwijk et al. ( 2010 ). Global potential of biomass for energy, in Global Energy Assessment -Preliminary results, More info: www.iiasa.ac.at/Research/ENE/GEA/index_gea.html Hoogwijk, M. (2004). On the global and regional potential of renewable energy sources. Science, Technology & Society. Utrecht, Utrecht University. PhD: 256 Horssen, A. v., et al. (2009). The impacts of CO, capture technologies in power generation and industry on greenhouse gases emissions and air pollutants in the Netherlands, Ministry of VROM, Milieu- en Natuur Planbureau, Utrecht University, TNO IEA (2009). Technology Roadmap Carbon capture and storage, International Energy Agency IEA (2009). World Energy Outlook 2009. Paris, France, International Energy Agency IEA ETSAP (2010). Biomass for Heat and Power. |EA Energy Technology System Analysis Program, International Energy Agency IEA ETSAP (2010). Coal-Fired Power. |EA Energy Technology System Analysis Program, International Energy Agency IEA ETSAP (2010). Liquid Fuels Production from Coal & Gas. |EA Energy Technology System Analysis Program, International Energy Agency IEA GHG (2004). Ship transport of CO,. Cheltenham, International Energy Agency Greenhouse Gas R&D Programme IEA GHG (2009). Biomass CCS Study, IEA Greenhouse Gas R&D Programme (IEA GHG). November 2009/ 9 IEA GHG (2009). CO, storage in depleted gas fields, |EA Greenhouse Gas R&D Programme (IEA GHG), IEA/OECD (2006). CO, Capture & Storage. |EA Energy Technology Essentials, International Energy Agency IEA/QECD (2007). Biofuel Production. |[EA Energy Technology Essentials, International Energy Agency IEA/QECD (2007). Biomass for Power Generation and CHP. 1EA Energy Technology Essentials, International Energy Agency IEA/OECD (2008). CO, Capture and Storage -- A Key Carbon Abatement Option. Paris, Organisation for Economic Co-operation and Development, International Energy Agency: 266 p IEA/OECD (2008). From 1st to 2nd generation biofuel technologoies - an overview of current industry and RD&D activities. |EA Bioenergy, International Energy Agency, Organisation for Economic co-organisation and Development.http://www.iea.org/papers/2008/2nd_Biofuel Gen.pdf 
+
+ECOFYS 
+
+M\u00e9llersten, K., et al. (2003). \
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+Appendix B Biomass potential 
+
+ECOFYS 
+
+
+
+ECOFYS 
+
+Appendix D Overview tables major results 
+
+ECOFYS 
+
+Table D - 7 Regional breakdown technical potential in primary energy (biomass share in EJ/yr) for view years 2030 and 2050 
+
+ECOFYS 
+
+Table D - 9 Regional breakdown technical potential in negative GHG emissions (Gt CO, eq./yr) for view years 2030 and 2050 
+
+ECOFYS 
+
+Appendix E Factsheet Biomass (co-)firing for power generation 
+
+5. The direct injection of pre-milled biomass through dedicated biomass burners or directly into the furnace. 
+
+Typical large scale combustion technologies available for biomass co-firing are pulverized coal power plant and fluidised bed combustion. The circulating fluidised bed (CFB) is available on the scale of several hundreds of MWe and can typically achieve high conversion efficiencies with high co-firing shares. Pulverized coal units are available in the GWe size range. The IEA GHG (IEA GHG 2009) report a net efficiency of 45.1 % (LHV) for a supercritical 500MWe CFB co-fired plant (10% biomass/90% coal). This is somewhat higher than the pulverized coal power plant assessed in that study with the same fuel mix that shows an efficiency of 44.8 %. 
+
+the range between 16% and 30% for plants of about 50 MWe; however, efficiencies in the range of 30 to 36% are possible. Efficiencies for smaller plants are typically lower (Faaij 2006; IEA GHG 2009; IEA ETSAP 2010). Using municipal solid waste (MSW) as feedstock generally limits?\u00ae steam temperature and with it efficiency to about 22%. Newer installations can reach higher efficiencies of approximately 30%, however. 
+
+results in a reduction of the overall efficiency of for instance a power plant. Depending on the type of solvent that is used, impurities need to be removed from the flue gas in order to limit operational problems. Examples are solvent degradation, foaming and fouling. Impurities that need to be removed are typically acid gases (NO,, SO,, HClI and HF) and particulate matter (PM). Power plants equipped with CO, capture should thus be equipped with highly efficient flue gas desulphurization (FGD), DeNO, installations and electrostatic precipitators (ESP) and/or fabric filters to remove PM. Also, the flue gas typically requires cooling before it is processed in the CO; capture installation (Koornneef 2010). 
+
+higher efficiency loss estimate is found for the CFB option as equipping this power plant with capture requires additional flue gas cleaning. In the future, lower heat requirements for capture and increased generating efficiencies due to higher steam parameters may reduce capture energy requirements and improve overall generating efficiency significantly. 
+
+section are challenges for the short-term (Koornneef 2010). The capture of CO, from biomass fired oxyfuel power plants have not been studied in detail and is therefore not included here. 
+
+power plants the capital cost increases by 126% for CFB plants and by 114% for BFB plants compared to coal-fired plant of the same size. This increase includes required additional flue gas cleaning equipment. 
+
+Main obstacles for combustion of biomass in general are: e Feedstock availability at low cost e Somewhat reduced generating efficiency compared to fossil fuels e Competition on arable land with food and fibre production o Risks associated with the large scale production of biomass, which may result in intensive farming, use of fertilizers and chemicals use and may have an impact on conservation of biodiversity e Technical obstacles such as slagging, fouling and corrosion in advanced power plants should be eliminated before widespread deployment can be effectuated. 
+
+Table E- 11 Summary table of cost and performance of biomass (co-)firing in coal fired power plants 
+
+Appendix F factsheet Biomass (co-)gasification for power generation 
+
+ECOFYS 
+
+characteristics (melting point and aggressiveness) and halogen content are examples of the latter. 
+
+ECOFYS 
+
+technology and is commercially available in other applications than for electricity production. To make CO, capture with high efficiencies in the range of 85-95% possible, the syngas that is formed after gasification has to be shifted after it is cleaned. The \u2018water gas shift\u2019 (WGS) reaction, yields heat and a gas stream with high CO, and H; concentrations. The CO, can then be removed with chemical and physical solvents, adsorbents and membranes. For the near-term it is expected that chemical or physical solvents (or a combination) are used for the CO, removal. Syngas dilution with atmospheric nitrogen largely eliminates the benefits in air-blown gasification systems (Rhodes and Keith 2005; IEA/OECD 2006; Koornneef 2010). 
+
+ECOFYS 
+
+Table F- 13 Overview of cost of dedicated biomass fired BIGCC power plants in literature 
+
+ECOFYS 
+
+e Technical improvements for (B)IGCC may build on the experience and further development of gasification technology in (petro)chemical sector which produce base chemicals and transport fuels (e.g. FT-diesel). e |GCC allows CO, capture with relative lower energy penalty and makes use of a capture technology that is proven and available on the required scale for commercial sized power plants. e Environmental performance of IGCC power plants is in general favourable over PC power plants. Biomass co-gasification may further improve this performance. 
+
+ECOFYS 
+
+ethanol). Currently, this ethanol is used in 5%-10% blends with gasoline (E5, E10) and as 85% blend (E-85) in flex-fuel vehicles (IEA/OECD 2007). In Brazil E25 is most used (REN21 2010). 
+
+ECOFYS 
+
+common agriculture and at higher yields per hectare, which would decrease the environmental impact of biomass production (IEA/OECD 2007; Bauen, Berndes et al. 2009). 
+
+ECOFYS 
+
+Table G- 16 Ethanol production cost (including fuel cost) reported in literature 
+
+ECOFYS 
+
+To reduce energy consumption for the compression of captured CO,, the operating pressure of the fermentation installation can be increased. However, higher operating pressure has negative influence on the fermentation process (Ecofys 2007). 
+
+ECOFYS 
+
+The biomass gasification process typically utilizes air or nearly pure oxygen to generate syngas. Compared to air-blown gasifiers, oxygen blown gasifiers show superior performance in terms of efficiency. The thermal efficiency and calorific value of the syngas from biomass is lower than that from coal because of the typical high moisture content of the biomass (Demirbas 2005). Commercial coal gasification systems are available up to several GWth and currently about 15 GW,, of coal-to- liquid capacity is installed worldwide (IEA ETSAP 2010). For biomass, energy output is generally limited to about 80 MWth. Beside limitations in the economic supply of large quantities of biomass, large scale gasification of biomass is predominantly hindered by technical limitations (IEA ETSAP 2010). Examples are feeding systems design, corrosion issues and product gas cleaning. A wide range of feedstock can be gasified, including wood, charcoal, coconut shells and rice husks. However, depending on the specific design of a gasification system not all feedstock may be acceptable. An individual gasification system is typically designed to operate for a more narrow range of feedstock (Demirbas 2005; Bauen, Berndes et al. 2009; van Vliet, Faaij et al. 2009). 
+
+ECOFYS 
+
+H2 CO; capture 
+
+ECOFYS 
+
+Table H- 18 Overview of synthetic biodiesel production cost with and without CO, capture 
+
+ECOFYS 
+
+ECOFYS 
+
