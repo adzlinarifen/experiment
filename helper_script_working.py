@@ -16,71 +16,79 @@ def should_omit_doc_text(doc_text):
     return False
 
 # Directory path where text files are located
-input_directory_path = '/home/adzlinarifen/ccsstorageaccount2023/deployed/58f93aa2-fe2f-4657-9030-eef067a70ee4/ocr/'
 
-for folder, _, files in os.walk(input_directory_path):
-    for filename in files:
+# Get a list of folder names in the specified path
 
-        if filename == "text.txt":
-            # Extract the UUID from the file path
-            uuid = folder.split('/')[-2]  # Assuming the UUID is in the second-to-last part of the path
+path = '//home/adzlinarifen/ccsstorageaccount2023/deployed/'
+folder_names = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
 
-            # Define the output file path for each folder
-            output_file_path = os.path.join(folder, 'ocr_rearrange.txt')
 
-            # Variable to store the maximum page number found
-            max_page_number = 0
+for file_UUID in folder_names:
+    input_directory_path = '/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}}/ocr/'
 
-            # Dictionary to store page numbers and corresponding lines
-            page_numbers = {}
+    for folder, _, files in os.walk(input_directory_path):
+        for filename in files:
 
-            with open(os.path.join(input_directory_path, folder, filename), 'r') as input_file:
-                lines = input_file.readlines()
+            if filename == "text.txt":
+                # Extract the UUID from the file path
+                uuid = folder.split('/')[-2]  # Assuming the UUID is in the second-to-last part of the path
+
+                # Define the output file path for each folder
+                output_file_path = os.path.join(folder, 'ocr_dump.txt')
+
+                # Variable to store the maximum page number found
+                max_page_number = 0
+
+                # Dictionary to store page numbers and corresponding lines
                 page_numbers = {}
-                max_page_number = -1  # Initialize with a non-negative value
 
-                for line in lines:
-                    if 'page_num' in line:
-                        # Extract the page number and remove double-quotes
-                        page_num = int(line.split('"page_num": ')[1].split(',')[0].strip('"'))
-                        # Check if the line contains "doc_text"
-                        if '"doc_text": ' in line:
-                            doc_text = line.split('"doc_text": "')[1].split('"')[0]
-                        else:
-                            doc_text = "N/A"  # Handle cases where "doc_text" is not found
+                with open(os.path.join(input_directory_path, folder, filename), 'r') as input_file:
+                    lines = input_file.readlines()
+                    page_numbers = {}
+                    max_page_number = -1  # Initialize with a non-negative value
 
-                        if not should_omit_doc_text(doc_text):
-                            # Add the information to the page_numbers dictionary
-                            page_numbers[page_num] = {
-                                "extracted_info_params": [{"par_num": 1, "doc_text": doc_text, "id": uuid}],
-                                "file_id": uuid,  # Replace with the actual file_id
-                                "classification": "text",
-                                "page_num": page_num
-                            }
-                            # Update max_page_number if a larger page number is found
-                            max_page_number = max(max_page_number, page_num)
+                    for line in lines:
+                        if 'page_num' in line:
+                            # Extract the page number and remove double-quotes
+                            page_num = int(line.split('"page_num": ')[1].split(',')[0].strip('"'))
+                            # Check if the line contains "doc_text"
+                            if '"doc_text": ' in line:
+                                doc_text = line.split('"doc_text": "')[1].split('"')[0]
+                            else:
+                                doc_text = "N/A"  # Handle cases where "doc_text" is not found
 
-            # Ensure that we have lines for all page numbers from 1 to max_page_number
-            for page_num in range(1, max_page_number + 1):
-                if page_num not in page_numbers:
-                    # If a page number is missing, add an empty line for it
-                    page_numbers[page_num] = f'{{"extracted_info_params": "{doc_text}", "file_id": "{uuid}", "classification": "text", "page_num": {page_num}}}\n'
+                            if not should_omit_doc_text(doc_text):
+                                # Add the information to the page_numbers dictionary
+                                page_numbers[page_num] = {
+                                    "extracted_info_params": [{"par_num": 1, "doc_text": doc_text, "id": uuid}],
+                                    "file_id": uuid,  # Replace with the actual file_id
+                                    "classification": "text",
+                                    "page_num": page_num
+                                }
+                                # Update max_page_number if a larger page number is found
+                                max_page_number = max(max_page_number, page_num)
 
-            # Sort the page numbers in ascending order
-            sorted_page_numbers = sorted(page_numbers.items())
+                # Ensure that we have lines for all page numbers from 1 to max_page_number
+                for page_num in range(1, max_page_number + 1):
+                    if page_num not in page_numbers:
+                        # If a page number is missing, add an empty line for it
+                        page_numbers[page_num] = f'{{"extracted_info_params": "{doc_text}", "file_id": "{uuid}", "classification": "text", "page_num": {page_num}}}\n'
 
-            # Create a list to store concatenated doc_text values per page
-            doc_text_per_page = ["" for _ in range(max_page_number)]
+                # Sort the page numbers in ascending order
+                sorted_page_numbers = sorted(page_numbers.items())
 
-            # Process the lines to extract doc_text values and concatenate them
-            for _, line in sorted_page_numbers:
-                if isinstance(line, dict) and 'extracted_info_params' in line:
-                    page_num = line['page_num']
-                    doc_text = line['extracted_info_params'][0]['doc_text']
-                    doc_text_per_page[page_num - 1] += ' ' + doc_text  # Concatenate doc_text values
+                # Create a list to store concatenated doc_text values per page
+                doc_text_per_page = ["" for _ in range(max_page_number)]
 
-            # Write the concatenated doc_text values to the output file, separated by page
-            with open(output_file_path, 'w') as output_file:
-                for page_num, doc_text in enumerate(doc_text_per_page, start=1):
-                    if doc_text.strip():  # Only write non-empty doc_text
-                        output_file.write(f'Page {page_num}:\n{doc_text.strip()}\n')
+                # Process the lines to extract doc_text values and concatenate them
+                for _, line in sorted_page_numbers:
+                    if isinstance(line, dict) and 'extracted_info_params' in line:
+                        page_num = line['page_num']
+                        doc_text = line['extracted_info_params'][0]['doc_text']
+                        doc_text_per_page[page_num - 1] += ' ' + doc_text  # Concatenate doc_text values
+
+                # Write the concatenated doc_text values to the output file, separated by page
+                with open(output_file_path, 'w') as output_file:
+                    for page_num, doc_text in enumerate(doc_text_per_page, start=1):
+                        if doc_text.strip():  # Only write non-empty doc_text
+                            output_file.write(f'Page {page_num}:\n{doc_text.strip()}\n')
