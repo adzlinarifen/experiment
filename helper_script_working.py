@@ -1,4 +1,5 @@
 import os
+from tqdm.auto import tqdm
 
 # Function to check if a doc_text should be omitted
 def should_omit_doc_text(doc_text):
@@ -23,7 +24,7 @@ path = '//home/adzlinarifen/ccsstorageaccount2023/deployed/'
 folder_names = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
 
 
-for file_UUID in folder_names:
+for file_UUID in tqdm(folder_names):
     input_directory_path = f'/home/adzlinarifen/ccsstorageaccount2023/deployed/{file_UUID}}/ocr/'
 
     for folder, _, files in os.walk(input_directory_path):
